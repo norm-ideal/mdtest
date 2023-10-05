@@ -2,5 +2,6 @@
 
 ```mermaid
 flowchart LR
-a --> b
+a --> b --> c
+c --> a
 ```
